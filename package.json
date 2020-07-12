@@ -1,0 +1,26 @@
+{
+
+  "name": "vore-tracker",
+
+  "description": "A bot for forbidding words, and shaming those who say them.",
+
+  "version": "0.0.1",
+
+  "main": "roboppyruntime.js",
+
+  "scripts": {
+
+    "start": "node roboppyruntime.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
+  }
+
+}
+
